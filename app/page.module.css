@@ -1,0 +1,60 @@
+.top {
+    display: flex;
+    background-color: #3f3129;
+    justify-content: space-between;
+    padding-left: 54px;
+    padding-right: 54px;
+}
+
+.top > span {
+    margin: auto;
+    text-align: center;
+    color: #fffaf2;
+    font-family: "Cormorant Garamond", serif;
+}
+
+.heder {
+    display: flex;
+ 
+    justify-content: space-between;
+    outline: solid blue 2px;
+}
+
+.heder > nav {
+    display: flex;
+    ;
+    gap: 50px
+    ;
+}
+.heder > nav > a {
+ display: flex;
+ justify-content: space-evenly;
+    font-family: "DM Sans", sans-serif;
+}
+
+.header > button {
+}
+
+
+.rvs{
+
+display:flex;
+justify-content: flex-start;
+gap: 30px;
+
+}
+
+.insta{
+display:flex;
+justify-content: flex-start;
+outline: 2px blue solid;
+
+
+}
+
+.insticn{
+outline: 2px blue solid;
+margin:5px
+
+
+}
